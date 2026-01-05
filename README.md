@@ -35,4 +35,4 @@ I developed this tool to align my technical skills with my values. In an era whe
 Open Source  Free for anyone to use and improve.
 
 ---
-*Developed by Abdul Qudoos for the as a Portfolio*
+*Developed by Abdul Qudoos for as a Portfolio*
